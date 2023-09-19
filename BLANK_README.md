@@ -51,7 +51,7 @@ In this Jupyter notebook, I will be showing you how to build a linear regression
 
 ### Built With
 
-* [![Next][Next.js]][Python-url]
+![Logo]([https://allvectorlogo.com/img/2017/07/openai-logo.png](https://www.linuxadictos.com/wp-content/uploads/python-logo.jpg))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
