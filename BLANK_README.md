@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 In this Jupyter notebook, I will be showing you how to build a linear regression model in Python using the sci-kit-learn package.
 
